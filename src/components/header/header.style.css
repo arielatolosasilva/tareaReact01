@@ -1,0 +1,13 @@
+.containerHeader{
+    background-color: #109ceb;
+    display:flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+.imgLogo{
+    margin-left: 5rem;
+}
+a{
+    padding: .5rem;
+    color:white
+}
